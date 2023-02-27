@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ashish Saraswat. I am Data Engineering Lead at Accenture, India
+- 👋 Hi, I’m Ashish Saraswat. I am Data Engineering Tech Architect at Accenture, UK
 - 👀 I’m interested in Java, Python, Cloud and Big data Technologies.
-- 🌱 I’m currently learning AWS, Scala and Advanced Spark.
-
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
